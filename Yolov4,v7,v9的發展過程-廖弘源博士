@@ -1,0 +1,14 @@
+物件偵測，深度學習，電腦視覺
+常見作法:封閉曲線 image->visual dictionary
+R-CNN two-stage object detectors
+some issues need to be considered (偵測系統須考量的問題)
+  network architecture
+  feature intergration method
+  detection method
+  loss functon
+  label assignment method
+  training method
+
+完整的stage是從backbone組織不同層的資訊進行feature oraganization要處理某個任務
+一個stage中gradient flow是具有語意的
+ELAN控制最短和最長的gradient使網路更有效的學習和收斂
