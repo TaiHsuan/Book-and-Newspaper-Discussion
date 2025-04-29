@@ -1,0 +1,56 @@
+主題：從智慧到製造：人工智慧如何引領智慧工廠革命  
+講者：鄭煜輝 教授  
+日期：2025年4月29日
+
+人工智慧的發展歷程  
+
+起源：達特茅斯會議（Dartmouth Conference, 1956年）  
+- 人工智慧（AI）的正式提出  
+- 定義：透過電腦模擬人類的知識與行為，包括：
+  - 學習（Learning）
+  - 推理（Reasoning）
+  - 解決問題（Problem-solving）
+  - 記憶（Memory）
+  - 語言處理（Language）
+
+二、人工智慧三個階段的演進  
+
+推理階段（1950s~1970s）
+技術核心：符號邏輯（Symbolic Logic）、狀態空間問題求解（Problem Solving）
+代表性成果：邏輯規則引擎與早期遊戲 AI  
+
+知識階段（1970s~1990s）
+技術核心：專家系統（Expert Systems）、知識工程（Knowledge Engineering）
+特點：依賴專家知識與規則庫建構推理機制
+挑戰：知識取得困難、系統維護困難  
+
+學習階段（1990s~至今）
+技術核心：統計學方法、機器學習（Machine Learning）、深度學習（Deep Learning）
+特點：利用大量數據自動學習特徵
+應用：圖像辨識、語音辨識、自然語言處理、自動駕駛等  
+三、機器自動學習的演算法（Machine Learning Algorithms）  
+
+監督式學習（Supervised Learning）  
+例：分類（Classification）、迴歸（Regression）
+
+非監督式學習（Unsupervised Learning）
+ 無需標註資料，探索資料內部結構  
+例：分群（Clustering）、降維（Dimensionality Reduction）
+
+強化學習（Reinforcement Learning）
+透過與環境互動獲得回饋，逐步學習最適策略  
+
+深度學習（Deep Learning 
+模仿人腦神經網絡的多層結構  
+可自動從數據中提取高階特徵  
+
+AI市場趨勢與應用  
+
+智慧製造與工業4.0：  
+AI結合IoT（物聯網）、大數據、邊緣運算  
+實現自動化決策、預測維護、良率提升  
+重塑傳統工廠運作方式  
+
+商業潛力：  
+AI成為全球科技發展核心  
+應用領域涵蓋製造、金融、醫療、零售、物流等  
