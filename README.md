@@ -4,3 +4,4 @@
 ## Yolov4,v7,v9的發展過程-廖弘源博士 筆記 4/1
 ### Yolov4,v7,v9的發展過程-廖弘源博士 11363117 戴子璿 書報討論書面報告 0401.docx
 ## Towards Research for Beginners : A Case Study 彭勝龍院長 筆記 4/22
+## 從智慧到製造:人工智慧如何引領智慧工廠革命 筆記 4/29 
