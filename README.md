@@ -8,4 +8,4 @@
 ## 探索奈米的邊界：科學邂逅不可能 主講人：楊凱琳 教授 筆記 5/6
 ## 物流出貨運送管理系統 詹永寬教授 5/13
 ## 創業不只靠點子——從學習到實踐的必經之路 以高科技電子產品為例 講者：胡龍融 博士
-##Future Insights: Harnessing AI and Social Media for Advanced Event and Epidemic Forecasting-呂昌田教授 筆記 6/3
+## Future Insights: Harnessing AI and Social Media for Advanced Event and Epidemic Forecasting-呂昌田教授 筆記 6/3
